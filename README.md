@@ -7,4 +7,4 @@ Pattern matching game using JavaScript to setup game board grid. Watch a sequenc
 - Element style manipulation.
 
 # Image
-![](images/countdown.PNG)
+![](Images/Pattern.PNG)
